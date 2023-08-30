@@ -1,5 +1,8 @@
 name: Personal Wiki Setup
 permalink: /:title
+url: burgy-png.github.io
+baseurl: /Burgy-png.github.io
+
 
 markdown: kramdown
 kramdown:
